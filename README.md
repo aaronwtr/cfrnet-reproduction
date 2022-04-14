@@ -1,5 +1,5 @@
-# CFRnet reimplementation
-Deeplearning course CS4240 - TU Delft.
+# CFRnet Reproduction
+For the completion of Deep Learning CS4240 - University of Technology Delft.
 
 Original paper at [proceedings.mlr.press](http://proceedings.mlr.press/v70/shalit17a/shalit17a.pdf)
 
