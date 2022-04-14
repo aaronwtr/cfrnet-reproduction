@@ -1,0 +1,9 @@
+/crfnet/.idea/*
+cfrnet/.idea/
+/__pycache__/
+*.pyc
+output/
+cfrnet/**/*.png
+cfrnet/**/*.csv
+
+.idea

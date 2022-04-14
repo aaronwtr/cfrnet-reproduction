@@ -1,0 +1,1 @@
+print("Yes, Google Colab is up and running!")
