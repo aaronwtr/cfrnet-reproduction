@@ -5,6 +5,8 @@ Original paper at [proceedings.mlr.press](http://proceedings.mlr.press/v70/shali
 
 A blog describing the goal of this repository can be found [here](https://medium.com/@ivo.spam/machine-learning-for-causal-inference-reproducing-individual-treatment-effect-predictions-846c76a5edef).
 
+This repository was originally hosted on GitLab. You can find the entire history of this project on our [GitLab repository](https://gitlab.com/LifdAai/cfrnet-reimplementation).
+
 # Contributors
 This project has been created by
 - A. Wenteler <a.wenteler@student.tudelft.nl>,
