@@ -7,6 +7,8 @@ A blog describing the goal of this repository can be found [here](https://medium
 
 This repository was originally hosted on GitLab. You can find the entire history of this project on our [GitLab repository](https://gitlab.com/LifdAai/cfrnet-reimplementation).
 
+The used data are the IHDP-1000 and Jobs datasets. These can be retrieved via [https://www.fredjo.com/](https://www.fredjo.com/). 
+
 # Contributors
 This project has been created by
 - A. Wenteler <a.wenteler@student.tudelft.nl>,
